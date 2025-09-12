@@ -1,6 +1,6 @@
 # 📋 task manager app!!
 
-TaskVault is a full-stack task management application that allows users to create, complete, and delete tasks in a clean and responsive UI. It uses **React** for the frontend, **Node.js + Express** for the backend, and **MongoDB** for data persistence.
+This is full-stack task management application that allows users to create, complete, and delete tasks in a clean and responsive UI. It uses **React** for the frontend, **Node.js + Express** for the backend, and **MongoDB** for data persistence.
 
 ---
 
