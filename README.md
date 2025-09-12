@@ -11,7 +11,7 @@ This is full-stack task management application that allows users to create, comp
 - Delete tasks
 - Store data in a MongoDB database
 - Fully RESTful API
-- ⚛Responsive frontend built with React
+- Responsive frontend built with React
 
 ---
 
